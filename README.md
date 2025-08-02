@@ -55,14 +55,23 @@ iface.launch()
 
 ```
 
+## Graph 
+
+<img width="865" height="658" alt="image" src="https://github.com/user-attachments/assets/60e4ff9f-7100-4082-861a-63ea74054cef" />
+
+
 ## Sample Output
 
+<img width="856" height="396" alt="image" src="https://github.com/user-attachments/assets/91ae793f-0836-4812-acde-c0f74c81f6e0" />
 
-<img width="852" height="363" alt="image" src="https://github.com/user-attachments/assets/05f8294f-cd8f-4a7d-bdfc-6deeda633222" />
 
-<img width="922" height="193" alt="image" src="https://github.com/user-attachments/assets/3cb27fc2-c1e6-4f89-9072-e2a500febe32" />
+<img width="755" height="215" alt="image" src="https://github.com/user-attachments/assets/942d0601-ab34-4973-8555-5ecbd89013ff" />
 
-<img width="793" height="434" alt="image" src="https://github.com/user-attachments/assets/7ab1c152-2873-4eda-908b-a8d5bc7002ed" />
+
+<img width="698" height="179" alt="image" src="https://github.com/user-attachments/assets/d02239bf-9733-47ab-8e7f-579964f6af51" />
+
+
+<img width="681" height="384" alt="image" src="https://github.com/user-attachments/assets/20862c4f-adec-4631-9917-b999497f2cfb" />
 
 
 ## Result 
